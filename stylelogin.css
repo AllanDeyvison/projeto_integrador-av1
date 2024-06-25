@@ -1,0 +1,208 @@
+
+body{ 
+    background: linear-gradient(180deg, rgba(44, 62, 80, 0.8999999761581421) 10%, rgba(100, 141, 182, 0.8999999761581421) 100%);   
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;  
+}
+
+.bgform{
+    box-shadow: 0px 0px 5px 5px #1ABC9C;
+    backdrop-filter: blur(90px);
+    border-radius: 25px;
+    border: solid #1ABC9C;  
+    width: 60%;
+}
+
+.bgforml{
+    box-shadow: 0px 0px 5px 5px #1ABC9C;
+    backdrop-filter: blur(90px);
+    border-radius: 25px;
+    border: solid #1ABC9C;  
+    width: 100%;
+}
+
+.comentario{
+    background: whitesmoke;
+    padding: 5pt;
+    box-shadow: 0px 0px 5px 5px #1ABC9C;
+    backdrop-filter: blur(90px);
+    border-radius: 25px;
+    border: 1px;
+    width: 60%;
+    padding-top: 15pt;
+
+
+}
+
+
+
+
+.moda{
+    background: linear-gradient(180deg, rgba(44, 62, 80, 0.8999999761581421) 0%, rgba(100, 141, 182, 0.8999999761581421) 100%);
+    /* background-color:  linear-gradient(to right, transparent, black 1%, black 99%, transparent); */
+    box-shadow: 0px 0px 5px 5px #1ABC9C;
+    backdrop-filter: blur(90px);
+    border-radius: 25px;
+    border: 10px;
+
+
+
+}
+
+a{
+    color: #1ABC9C;
+}
+
+.color{
+    color: #1ABC9C;
+
+}
+
+.post{
+    background-color: rgba(255, 255, 255, 0.386);
+    box-shadow: 0px 0px 5px 5px #1ABC9C;
+    backdrop-filter: blur(90px);
+    border-radius: 10px;
+    border: 1px; 
+     
+
+}
+
+.post2{
+    background-color: rgba(255, 255, 255, 0.386);
+    box-shadow: 0px 0px 5px 5px #1ABC9C;
+    backdrop-filter: blur(90px);
+    border-radius: 10px;
+    border: 1px; 
+     
+
+}
+
+.texto{
+    object-fit: cover;
+}
+
+.imgpost{
+    box-shadow: 0px 0px 5px 5px #040404;
+    
+
+
+}
+
+img{
+    backdrop-filter: blur(90px);
+    border-radius: 10px;
+    border: 1px; 
+    width: 50%;
+    height: 50%;
+   
+
+}
+
+
+
+.noti{
+
+    background-color: rgba(255, 255, 255, 0.386);
+    box-shadow: 0px 0px 5px 5px #1ABC9C;
+    backdrop-filter: blur(90px);
+    border-radius: 20px;
+    border: 1px; 
+
+}
+
+.perfil{
+    background-color: rgba(255, 255, 255, 0.386);
+    box-shadow: 0px 0px 5px 5px #1ABC9C;
+    backdrop-filter: blur(90px);
+    border-radius: 10px;
+    border: 10px;
+}
+
+
+.nome-usuario {
+    font-weight: bold;
+  }
+
+.conteudo-texto {
+    margin-top: 20px; 
+  }
+  
+.foto{
+    /* position: absolute; */
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    bottom: 110px;
+    left: -20px; 
+    border: 2px solid #fff
+}
+
+.fotonoti{
+    /* position: absolute; */
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    bottom: 110px;
+    left: -20px; 
+    border: 2px solid #fff
+}
+
+
+
+
+.imagem{
+
+    border-radius: 5%;
+    border: #1ABC9C;
+    width: 100px; 
+  }
+
+
+h1{
+   
+    text-shadow: 
+    -3px -3px 6px #1ABC9C,
+     3px -3px 6px #1ABC9C,
+    -3px  3px 6px #1ABC9C,
+     3px  3px 6px #1ABC9C;
+
+}
+
+h4{
+    text-shadow: 
+    -3px -3px 6px #1ABC9C,
+     3px -3px 6px #1ABC9C,
+    -3px  3px 6px #1ABC9C,
+     3px  3px 6px #1ABC9C;
+}
+
+.album{
+    background-color: rgba(0, 0, 0, 0);
+    stroke: none;
+}
+
+.imgre{
+    width: 50%;
+    height: 50%;
+}
+
+.black{
+    /* background-color: black; */
+    height: 100vh;
+    background-image: url('pics/wallsky3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav{
+     
+    border: 0;
+}
